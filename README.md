@@ -45,7 +45,7 @@ cp -r ./URDF_Exporter "$HOME/Library/Application Support/Autodesk/Autodesk Fusio
 ```
 
 ## My terminal Screenshot 
-![title](Images/fusion2urdf.jpg)
+![title](Images/fusion2urdf.jpeg)
 
 ## What is this script?
 This is a fusion 360 script to export urdf from fusion 360 directly.
