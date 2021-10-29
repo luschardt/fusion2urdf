@@ -44,6 +44,9 @@ cd <path to fusion2urdf>
 cp -r ./URDF_Exporter "$HOME/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/"
 ```
 
+## My terminal Screenshot 
+![title](Images/fusion2urdf.jpg)
+
 ## What is this script?
 This is a fusion 360 script to export urdf from fusion 360 directly.
 
